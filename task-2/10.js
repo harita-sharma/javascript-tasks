@@ -11,6 +11,7 @@ const members = [
   ]
 
   var result = _.each(members,function(value){
+    
     console.log(value.name)
     console.log(value.age)
     
