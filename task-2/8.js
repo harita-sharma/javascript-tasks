@@ -9,5 +9,6 @@ const members = [
     {name: 'Swpril Ahuja', age: 45},
     {name: 'Yogesh Khatri', age: 51}
   ];
+  
   console.log(_.nth(members, 0));
 console.log(_.nth(members, 1));
